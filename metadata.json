@@ -1,0 +1,6 @@
+{
+  "name": "Gripe",
+  "description": "Gripe is a premium, professional DeFi Lending & Borrowing dApp deployed on the Arc Testnet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
